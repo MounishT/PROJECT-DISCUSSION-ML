@@ -83,5 +83,4 @@ print(model.predict(test_df_scaled))
 ![image](https://github.com/saiganesh2006/PROJECT-DISCUSSION-ML/assets/145742342/c5054554-c39b-438d-9c17-61221708fb40)
 
 ## RESULT:
-### Result
 Thus,Successfully created the Random Forest Classifier achieved an accuracy of 85% on the test set. It predicted 'rainy' weather for the sample input data on May 17th.
