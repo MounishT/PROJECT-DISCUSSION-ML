@@ -4,9 +4,13 @@ Develop a machine learning model to predict weather conditions based on historic
 ### ALGORITHM:
 
 1.Load the dataset, drop missing values, extract month and day from the date column.
+
 2.Create feature and target sets (X, y) and perform train-test split.
+
 3.Standardize the features using StandardScaler.
+
 4.Train a RandomForestClassifier on the training data.
+
 5.Evaluate the model using classification metrics and make predictions on new data.
 
 ### DEVELOPED BY: D.B.V. SAI GANESH
